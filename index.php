@@ -415,7 +415,7 @@
                 <a href="#contact9j2m" class="linkbtn9k4j">Discover More</a>
             </div>
             <div class="card9m4l">
-                <img src="https://images.pexels.com/photos/6663329/pexels-photo-6663329.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Lash Tinting">
+                
                 <h3>Lash Tinting Services</h3>
                 <p>Darken and define your natural lashes with our professional tinting service. This treatment enhances the appearance of your lashes without the need for mascara, making them appear fuller and more noticeable. Especially beneficial for those with lighter colored lashes.</p>
                 <a href="#contact9j2m" class="linkbtn9k4j">Get Started</a>
@@ -832,3 +832,4 @@
 
 </body>
 </html>
+
